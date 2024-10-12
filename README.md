@@ -8,7 +8,7 @@ A simple, customizable Tic-Tac-Toe game implemented in Dart. This console-based 
 - Win and draw detection
 ## How to Play
 1. Run the game using a Dart-compatible environment.
-2. Enter the desired board size when prompted (3-10).
+2. Enter the desired board.
 3. Enter names for Player 1 and Player 2.
 4. Players take turns entering their moves by specifying the row and column (e.g., "1 2" for first row, second column).
 5. The game continues until a player wins or the game ends in a draw.
