@@ -16,3 +16,6 @@ A simple, customizable Tic-Tac-Toe game implemented in Dart. This console-based 
 - Dart SDK (version 2.12.0 or higher recommended)
 ## Running the Game
 To run the game, use the following command in your terminal:
+  ```
+ dart run tictactoe.dart
+ ```
